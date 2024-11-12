@@ -16,6 +16,7 @@ figure {
 }
 
 img {
-    width: 100%;
+    display: block; /* Ensures the image is displayed */
+    width: 100%; /* Ensures the image takes up available space */
     height: auto;
 }
